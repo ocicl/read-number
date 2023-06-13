@@ -1,0 +1,10 @@
+* read-number
+
+Reading numbers from an input stream without using the Lisp reader.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ralph-schleicher/read-number.git   |
+| commit  | 7dd9474  |
+| systems | read-number |
+|---------+-------------------------------------------|
+
